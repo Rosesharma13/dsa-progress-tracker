@@ -24,7 +24,8 @@ https://your-demo-link.vercel.app
 Add a screenshot inside the assets folder and update the path below.
 
 ```text
-![Project Screenshot](assets/screenshot.png)
+<img width="910" height="1067" alt="screenshot" src="https://github.com/user-attachments/assets/3e4cdc7e-e1bd-4703-9ca1-e54a18acf4ca" />
+
 ```
 
 ---
