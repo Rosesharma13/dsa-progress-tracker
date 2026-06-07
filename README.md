@@ -24,12 +24,6 @@ https://your-demo-link.vercel.app
 Add a screenshot inside the assets folder and update the path below.
 
 ```text
-assets/screenshot.png
-```
-
-Example:
-
-```markdown
 ![Project Screenshot](assets/screenshot.png)
 ```
 
