@@ -11,7 +11,7 @@ A responsive web application that helps learners track their progress in **Data 
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed link here
+🔗 https://rosesharma13.github.io/dsa-progress-tracker/
 
 ```text
 https://your-demo-link.vercel.app
