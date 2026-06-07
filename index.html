@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DSA Progress Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+<h1>📚 DSA Progress Tracker</h1>
+
+<div class="dashboard">
+<h2 id="progressText">Progress: 0%</h2>
+
+<div class="progress">
+<div id="progressBar"></div>
+</div>
+</div>
+
+<h2>DSA Topics</h2>
+
+<div id="topics"></div>
+
+<h2>Goal Tracker</h2>
+
+<input
+type="number"
+id="solved"
+placeholder="Solved Questions">
+
+<input
+type="number"
+id="target"
+placeholder="Target Questions">
+
+<button onclick="saveGoal()">
+Save Goal
+</button>
+
+<p id="goalStatus"></p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
