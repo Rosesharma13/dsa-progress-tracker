@@ -13,9 +13,6 @@ A responsive web application that helps learners track their progress in **Data 
 
 🔗 https://rosesharma13.github.io/dsa-progress-tracker/
 
-```text
-https://your-demo-link.vercel.app
-```
 
 ---
 
@@ -23,10 +20,8 @@ https://your-demo-link.vercel.app
 
 Add a screenshot inside the assets folder and update the path below.
 
-```text
 <img width="910" height="1067" alt="screenshot" src="https://github.com/user-attachments/assets/3e4cdc7e-e1bd-4703-9ca1-e54a18acf4ca" />
 
-```
 
 ---
 
@@ -100,7 +95,7 @@ dsa-progress-tracker/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/dsa-progress-tracker.git
+git clone https://github.com/Rosesharma13/dsa-progress-tracker.git
 ```
 
 Navigate into the project
@@ -182,6 +177,7 @@ This project is licensed under the MIT License.
 
 - GitHub: https://github.com/your-github-username
 - LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- Portfolio: https://rosesharma13.github.io/
 
 ---
 
